@@ -1,0 +1,29 @@
+{
+  "overview": "Vira Makeup Artistry & Beauty Studio — a luxurious, premium 3D animated website for a professional makeup artist based in Akola, Maharashtra. Features a multi-page React app with beige/brown theme, advanced animations, portfolio gallery, booking page, celebrity work showcase, and full studio information.",
+  "features": [
+    "Premium 3D animated hero with Three.js particles",
+    "Beige and brown luxury light theme throughout",
+    "12+ real photos across gallery, portfolio, and featured sections",
+    "Multi-page routing: Home, Portfolio, Book Appointment, Celebrity Work, About Us",
+    "Unique animated backgrounds per page",
+    "6 service cards with 3D flip animations",
+    "Indian client reviews section",
+    "FAQ accordion",
+    "Google Maps embed",
+    "Floating WhatsApp and Instagram buttons",
+    "Mobile-friendly navigation with hamburger menu",
+    "Scroll-triggered 3D reveal animations"
+  ],
+  "category": "portfolio-beauty-studio",
+  "tags": [
+    "makeup",
+    "beauty",
+    "studio",
+    "3d-animations",
+    "luxury",
+    "portfolio",
+    "india",
+    "bridal"
+  ],
+  "last_updated": "2026-05-17T14:18:33.622Z"
+}
