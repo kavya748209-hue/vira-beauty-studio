@@ -276,7 +276,7 @@ export function Footer() {
             reserved.
           </p>
           <p>
-            Crafted with ♥ in Akola, Maharashtra · Built with{" "}
+            Crafted with ♥ in Akola, Maharashtra ·
             <a
               href={`https://caffeine.ai?utm_source=caffeine-footer&utm_medium=referral&utm_content=${utm}`}
               target="_blank"
@@ -284,7 +284,7 @@ export function Footer() {
               className="underline hover:opacity-80 transition-smooth"
               style={{ color: "var(--color-gold-light)" }}
             >
-              caffeine.ai
+          
             </a>
           </p>
         </motion.div>
